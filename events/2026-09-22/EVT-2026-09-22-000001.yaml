@@ -1,0 +1,13 @@
+event_schema_version: 1
+event_id: EVT-2026-09-22-000001
+event_type: uat_executed
+occurred_at: 2026-09-22T12:10:43+00:00
+recorded_at: 2026-09-22T12:10:43+00:00
+actor: saumit
+product: product-1
+subject_ref: records/uat/UAT-2026-09-22-001.yaml
+payload:
+  mechanism: manual_verification
+  result: pass
+  item: verification/uat.md
+  evidence_link: https://github.com/pareshp-org/Product-1/actions/runs/1

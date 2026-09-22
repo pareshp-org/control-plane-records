@@ -1,0 +1,10 @@
+record_schema_version: 1
+id: UAT-2026-09-22-001
+product: product-1
+timestamp: 2026-09-22T12:10:43+00:00
+result: pass
+executed_by: saumit
+uat_contract: verification/uat.md
+environment: local
+evidence: https://github.com/pareshp-org/Product-1/actions/runs/1
+work_item: verification/uat.md
